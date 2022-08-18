@@ -7,7 +7,7 @@ This is a Landing Page of the Rode.com which was made using purely HTML and Tail
 
 ### The deployed Version Link
 
-[Rodeclone]()
+[Rodeclone](https://rode-tailclone-akj.netlify.app/)
 
 ### SnapShot of the Webpage
 
